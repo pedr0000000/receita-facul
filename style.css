@@ -81,6 +81,25 @@ ol, ul{
 
 }
 
+h2{
+    font: 28px;
+    color: #854632;
+    line-height: 100%;
+    margin-bottom: 24px;
+}
+
+.ingredientes li::marker{
+    font-size: 12px;
+    color: #854632;
+}
+
+hr{
+    border: 1px solid #e3ddd7;
+    margin-block: 32px;
+}
+
+
+
 
 
 
